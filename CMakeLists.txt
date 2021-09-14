@@ -1,0 +1,2 @@
+
+add_subdirectory(gui_application_cube_demo)
